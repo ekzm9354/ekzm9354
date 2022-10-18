@@ -41,7 +41,7 @@
 <div align=center><h1>🗂 Project</h1></div>
 
 
-**1. [밥줘영양줘](https://github.com/2022-SMHRD-KDT-BIgData-14/-/tree/master) (2022, (사)스마트인재개발원 1차 프로젝트)**
+**1. [밥줘영양줘](https://github.com/ekzm9354/RecommenFoodService) (2022, (사)스마트인재개발원 1차 프로젝트)**
 - 1일 권장영양섭취량과 사용자의 1일 영양섭취량을 비교하여 부족한 영양소를 채울 수 있는 식메뉴를 추천하는 웹 서비스입니다.
   추천알고리즘 종류 중 콘텐츠기반,사용자기반 필터링을 사용하여 개발을 진행하였습니다 
   
