@@ -1,4 +1,6 @@
-<div align=center><h1>🙋‍♂️About Me</h1></div>
+<div align=center><h1>🙋‍♂️About Me</h1>
+<h3>Back to the basic</h3><h4>기본의 중요성을 아는 사람</h4>
+</div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
