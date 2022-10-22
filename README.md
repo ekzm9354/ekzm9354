@@ -2,6 +2,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ekzm9354)](https://github.com/anuraghazra/github-readme-stats)
 
+🏆 수상
+- (사)스마트 인재개발원 핵심융합프로젝트 최우수상 (10팀 중 1등)
+- (사)스마트 인개개발원 통합구현 Spring 성적우수상 (25명 중 1등)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
